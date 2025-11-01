@@ -347,6 +347,7 @@
     min-width: calc(var(--quantity) * var(--width));
   }
   .slider:hover .list .item h1 {
+    text-align: center;
     color: var(--color-slate-400);
   }
   .slider .list .item:hover h1 {

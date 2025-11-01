@@ -49,7 +49,7 @@
   }
 
   .slider:hover .list .item h1 {
-    @apply text-slate-400;
+    @apply text-slate-400 text-center;
   }
 
   .slider .list .item:hover h1 {
